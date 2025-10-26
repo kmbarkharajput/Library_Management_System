@@ -14,3 +14,8 @@ This application provides a complete desktop solution for managing a small to me
 ​Lending & Returns: Dedicated transaction module to log book issuance and acceptance of returns.
 
 ​Data Persistence: Uses a lightweight SQLite3 database to ensure data is saved between sessions.
+
+
+
+
+![image alt](https://github.com/kmbarkharajput/Library_Management_System/blob/40f85434863141f04aefd6a5f8dbc9a0c7108dee/11567c4c-e0cf-4c09-b62f-7f0d8e535aff.jpeg)
